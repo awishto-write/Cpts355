@@ -1,2 +1,2 @@
 # Cpts355
-Data3
+Assignments for the Programming Language Design course
